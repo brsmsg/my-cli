@@ -1,4 +1,4 @@
-### 实现一个cli demo
+# 实现一个CLI demo
 
 执行```tsc```将TS编译为JS
 
