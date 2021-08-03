@@ -17,7 +17,7 @@ export const loggerTiming = (str: string = "", start: boolean = true) => {
     console.time("Timing");
     console.log(chalk.cyan(`***** ${str} start *****`));
   } else {
-    console.log(chalk.cyan(`***** ${str} start *****`));
+    console.log(chalk.cyan(`***** ${str} end *****`));
     console.time("Timing");
   }
 };
