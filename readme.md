@@ -1,6 +1,7 @@
-实现一个cli demo
+# 实现一个CLI demo
 
-使用方法：
 执行```tsc```将TS编译为JS
+
 执行```npm link```将包挂载至全局
+
 在项目目录下执行```fe-cli```
