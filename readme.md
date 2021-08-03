@@ -1,6 +1,5 @@
-实现一个cli demo
+### 实现一个cli demo
 
-使用方法：
 执行```tsc```将TS编译为JS
 
 执行```npm link```将包挂载至全局
